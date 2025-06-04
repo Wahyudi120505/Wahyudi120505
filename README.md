@@ -45,6 +45,15 @@ With deep expertise in various programming languages and frameworks, I am always
 
 ---
 
+<h3 align="left">📂 Portfolio</h3>
+
+<p align="left">
+  You can explore some of my projects and case studies through my portfolio:<br>
+  🔗 <a href="https://portofolio-wahyudi.netlify.app/">https://portofolio-wahyudi.netlify.app/</a>
+</p>
+
+---
+
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="center">
