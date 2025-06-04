@@ -55,7 +55,12 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-  <img src="https://skillicons.dev/icons?i=swagger" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
 </div>
 
 ---
