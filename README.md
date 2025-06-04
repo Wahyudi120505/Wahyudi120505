@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">👨‍💻 Tentang Saya</h3>
+<h3 align="left">👨‍💻 About Me :</h3>
 
 <p align="left">
   Saya adalah pengembang web yang berpengalaman dalam pengembangan frontend dan backend. Terampil menggunakan React, Tailwind CSS untuk antarmuka pengguna, dan Java Spring Boot serta database untuk membangun backend yang efisien dan aman. Selalu bersemangat untuk menjelajahi alat dan framework baru serta meningkatkan keterampilan saya dalam industri yang terus berkembang.
@@ -33,7 +33,7 @@
 
 ---
 
-<h3 align="left">🛠 Tools & Teknologi</h3>
+<h3 align="left">🛠 Language and tools</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
@@ -65,7 +65,7 @@
 
 ---
 
-<h3 align="left">🔥 Statistik GitHub Saya</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wahyudi120505&show_icons=true&theme=tokyonight&hide_border=false" height="180" />
