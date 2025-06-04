@@ -36,17 +36,25 @@
 <h3 align="left">🛠 Tools & Teknologi</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
-  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo" />
-  <img src="https://skillicons.dev/icons?i=thymeleaf" height="60" alt="thymeleaf logo" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="netlify logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img src="https://img.shields.io/badge/swagger-%23009688.svg?style=for-the-badge&logo=swagger&logoColor=white" height="30" alt="swagger logo" />
 </div>
 
@@ -64,10 +72,12 @@
 
 ---
 
-### 🕹️ Kontribusi GitHub (Pacman Style)
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahyudi120505/Wahyudi120505/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahyudi120505/Wahyudi120505/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Wahyudi120505/Wahyudi120505/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Wahyudi120505/Wahyudi120505/output/pacman-contribution-graph-dark.svg">
 </picture>
+
+---
