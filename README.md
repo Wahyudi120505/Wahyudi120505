@@ -106,9 +106,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahyudi120505/Wahyudi120505/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Wahyudi120505/Wahyudi120505/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahyudi120505/Wahyudi120505/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Wahyudi120505/Wahyudi120505/output/pacman-contribution-graph-dark.svg">
+</picture>
 </div>
 
 ---
