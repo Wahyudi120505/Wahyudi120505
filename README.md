@@ -50,8 +50,9 @@ With deep expertise in various programming languages and frameworks, I am always
 <p align="left">
   You can explore some of my projects and case studies through my portfolio:<br><br>
   <a href="https://portofolio-wahyudi.netlify.app/">
-    <img src="https://img.shields.io/badge/Visit Portfolio-00C896?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/Visit Portfolio-444444?style=for-the-badge&logo=linktree&logoColor=white" alt="Portfolio Badge"/>
+</a>
+
 </p>
 
 
