@@ -11,8 +11,8 @@
   <a href="https://www.instagram.com/wahyudi.120505/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <a href="wahyutjg123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:wahyutjg123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
@@ -28,63 +28,92 @@
 
 ###
 
-<h3 align="left">👨‍💻 About Me :</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
   Saya adalah pengembang web yang berpengalaman dalam pengembangan frontend dan backend. Terampil menggunakan React, Tailwind CSS untuk antarmuka pengguna, dan Java Spring Boot serta database untuk membangun backend yang efisien dan aman. Selalu bersemangat untuk menjelajahi alat dan framework baru serta meningkatkan keterampilan saya dalam industri yang terus berkembang.
 </p>
 
+- 🔭 Currently working on **Full-stack web applications**
+- 🌱 Learning **Advanced React patterns and Spring Boot microservices**
+- 👯 Looking to collaborate on **Open source projects**
+- 💬 Ask me about **React, Java, Spring Boot, and web development**
+- 📫 How to reach me: **wahyutjg123@gmail.com**
+- ⚡ Fun fact: **I love exploring new technologies and building innovative solutions**
+
 ---
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="netlify logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
 
 ---
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wahyudi120505&show_icons=true&theme=tokyonight&hide_border=false" height="180" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahyudi120505&layout=compact&theme=tokyonight&hide_border=false" height="130" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Wahyudi120505&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wahyudi120505&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahyudi120505&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Wahyudi120505&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="180" alt="GitHub Streak" />
 </div>
 
 ---
 
-###
+<h3 align="left">📈 Activity Graph</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahyudi120505/Wahyudi120505/output/pacman-contribution-graph-dark.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Wahyudi120505/Wahyudi120505/output/pacman-contribution-graph-dark.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wahyudi120505&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
 
-###
+---
+
+<h3 align="left">🏆 GitHub Trophies</h3>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Wahyudi120505&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahyudi120505/Wahyudi120505/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahyudi120505/Wahyudi120505/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Wahyudi120505/Wahyudi120505/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <b>⭐ Don't forget to star my repositories if you find them useful! ⭐</b>
+</div>
