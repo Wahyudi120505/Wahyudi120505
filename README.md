@@ -78,37 +78,57 @@
 <h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wahyudi120505&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahyudi120505&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wahyudi120505&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&custom_title=Ahmad%20Wahyudi's%20GitHub%20Stats" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahyudi120505&layout=compact&theme=tokyonight&hide_border=false&langs_count=10&exclude_repo=&hide=html,css&card_width=320" height="170" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Wahyudi120505&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="180" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Wahyudi120505&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak" />
 </div>
 
----
-
-<h3 align="left">📈 Activity Graph</h3>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wahyudi120505&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Wahyudi120505&theme=tokyonight&hide_border=false&layout=compact&range=last_30_days" height="150" alt="WakaTime Stats" />
 </div>
 
 ---
 
-<h3 align="left">🏆 GitHub Trophies</h3>
+<h3 align="left">📈 Contribution Activity Graph</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wahyudi120505&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wahyudi120505&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=a9b1d6&line=f7768e&point=bb9af7&area=true&area_color=f7768e" width="100%" alt="Activity Graph" />
+</div>
+
+---
+
+<h3 align="left">🏆 GitHub Achievements & Trophies</h3>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Wahyudi120505&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=4&row=2" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wahyudi120505&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true&include_all_commits=true&count_private=true&hide_title=true&card_width=400&custom_title=" height="120" alt="Contribution Stats" />
+</div>
+
+---
+
+<h3 align="left">⚡ Recent Activity</h3>
+
+<div align="center">
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 </div>
 
 ---
 
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahyudi120505/Wahyudi120505/output/pacman-contribution-graph-dark.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Wahyudi120505/Wahyudi120505/output/pacman-contribution-graph-dark.svg">
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahyudi120505/Wahyudi120505/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahyudi120505/Wahyudi120505/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Wahyudi120505/Wahyudi120505/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
