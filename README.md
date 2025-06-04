@@ -78,8 +78,8 @@
 <h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wahyudi120505&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahyudi120505&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wahyudi120505&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahyudi120505&layout=compact&theme=tokyonight&langs_count=8" height="165" />
 </div>
 
 <div align="center">
@@ -91,7 +91,7 @@
 <h3 align="left">📈 Activity Graph</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wahyudi120505&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wahyudi120505&bg_color=1A1B27&color=E1E4E8&line=5F8DD3&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
 ---
