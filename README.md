@@ -63,7 +63,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahyudi120505/Wahyudi120505/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahyudi120505/Wahyudi120505/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wahyudi120505/Wahyudi120505/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Wahyudi120505/Wahyudi120505/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
