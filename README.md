@@ -55,7 +55,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-  <img src="https://img.shields.io/badge/swagger-%23009688.svg?style=for-the-badge&logo=swagger&logoColor=white" height="30" alt="swagger logo" />
+  <img src="https://skillicons.dev/icons?i=swagger" height="60" alt="c logo"  />
 </div>
 
 ---
