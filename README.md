@@ -31,7 +31,9 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-  Saya adalah pengembang web yang berpengalaman dalam pengembangan frontend dan backend. Terampil menggunakan React, Tailwind CSS untuk antarmuka pengguna, dan Java Spring Boot serta database untuk membangun backend yang efisien dan aman. Selalu bersemangat untuk menjelajahi alat dan framework baru serta meningkatkan keterampilan saya dalam industri yang terus berkembang.
+  I am an experienced web developer specializing in both frontend and backend development of responsive and user-friendly web applications. Skilled in using React and Tailwind CSS to build engaging user interfaces, and Java Spring Boot to develop efficient, secure, robust, and scalable backends.
+
+With deep expertise in various programming languages and frameworks, I am always eager to explore new technologies and continuously improve my skills in a constantly evolving industry. I have a strong passion for creating innovative and impactful technology solutions.
 </p>
 
 - 🔭 Currently working on **Full-stack web applications**
