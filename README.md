@@ -115,7 +115,7 @@ With deep expertise in various programming languages and frameworks, I am always
 <h3 align="left">🏆 GitHub Trophies</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wahyudi120505&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Wahyudi120505&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
