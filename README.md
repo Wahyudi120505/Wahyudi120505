@@ -115,7 +115,12 @@ With deep expertise in various programming languages and frameworks, I am always
 <h3 align="left">🏆 GitHub Trophies</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wahyudi120505&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/Wahyudi120505">
+    <img src="https://img.shields.io/github/followers/Wahyudi120505?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Wahyudi120505?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20All-blue?style=for-the-badge&logo=github" alt="GitHub Repositories" />
+  </a>
 </div>
 
 ---
